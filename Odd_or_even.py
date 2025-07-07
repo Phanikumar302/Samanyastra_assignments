@@ -4,4 +4,4 @@ if num % 2 == 0:
 else:                                      
     print("Given number is Odd")  
 
-print("hello world")      
+print("Welcome")     
